@@ -1,0 +1,46 @@
+.heading
+{
+width: 100%;
+font-size: 35px;
+margin-top: 0px;
+}
+
+.note
+{
+    color: red;
+    font-size : 15px;
+}
+
+.d_speed
+{
+    float: left;
+}
+
+.d_vol
+{
+    float: right;
+}
+
+#speed,#vol
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.disks
+{
+width: 250px;
+border-radius: 150px;
+}
+
+.pl_bu
+{
+    width: 200px;
+   font-size:25px;
+}
+
+canvas
+{
+    border:10px dotted black;
+    border-radius: 50px;
+}
